@@ -1,0 +1,15 @@
+.btns button a{
+    text-decoration: none;
+}
+.prj1-ul{
+    display: flex;
+    width: 300px;
+    /* background-color: aqua; */
+}
+.prj1-ul li{
+    flex-direction: row;
+    margin-right: -6.9rem;
+}
+.prj1-li .li-space{
+    width: 90px;
+}
